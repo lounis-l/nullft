@@ -1,0 +1,11 @@
+{
+  "name": "NFT Name Pingo",
+  "description": "NFT Description de Pingoo.",
+  "image": "https://ibb.co/0CckHFB",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "unique"
+    }
+  ]
+}
